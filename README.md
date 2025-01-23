@@ -1,4 +1,3 @@
-```markdown
 # Mutational Burden Analysis Workflow
 
 ### Step 1: Use alignment files and phylogenetic trees to reconstruct the ancestral genome for each clone
@@ -7,7 +6,7 @@ sbatch /storage/home/hcoda1/2/bli629/scratch/original_paper/code_management/phyl
 ```
 
 ### Step 2: Extract the reconstructed ancestral genome
-Details for this step should be implemented as required.
+This step was incorporate with step 3
 
 ### Step 3: Compare the reconstructed ancestral genome with the reference genome at each mapped position. Variants are identified and saved to VCF files.
 ```bash
