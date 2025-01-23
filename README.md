@@ -31,4 +31,3 @@ Use the R script provided for visualization.
 ```bash
 /storage/home/hcoda1/2/bli629/scratch/original_paper/code_management/manhattan_plot.R
 ```
-```
