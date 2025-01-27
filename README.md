@@ -68,7 +68,7 @@ python /storage/home/hcoda1/2/bli629/scratch/original_paper/all_codes/UPGMA_clus
 
 After clustering the representative samples, the cluster results were reflected to all the samples using the R script below:
 ```bash
-/storage/home/hcoda1/2/bli629/scratch/original_paper/all_codes/cluster.R
+Rscript /storage/home/hcoda1/2/bli629/scratch/original_paper/all_codes/cluster.R
 ```
 <br>
 <br>
@@ -109,5 +109,5 @@ python /storage/home/hcoda1/2/bli629/scratch/original_paper/all_codes/mutational
 ### Step 3.6: Generate Manhattan Plot Visualization
 Use the R script provided for visualization:
 ```bash
-/storage/home/hcoda1/2/bli629/scratch/original_paper/all_codes/manhattan_plot.R
+Rscript /storage/home/hcoda1/2/bli629/scratch/original_paper/all_codes/manhattan_plot.R
 ```
