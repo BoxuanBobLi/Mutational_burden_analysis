@@ -79,7 +79,7 @@ Rscript /storage/home/hcoda1/2/bli629/scratch/original_paper/all_codes/cluster.R
 - Conda environment: `phyloeffects.yml`, `snpeff.yml`
 
 ### Step 3.1: Use Alignment Files and Phylogenetic Trees to Reconstruct the Ancestral Genome for Each Clone
-All the alignments, tree, and position mapping files are downloaded from [Zenodo](https://zenodo.org/records/10600286), as our clustering results are not ideal
+All the alignments, tree, and position mapping files are downloaded from [Zenodo](https://zenodo.org/records/10600286), as our clustering result is not ideal
 ```bash
 sbatch /storage/home/hcoda1/2/bli629/scratch/original_paper/all_codes/phylloeffects.sbatch
 ```
